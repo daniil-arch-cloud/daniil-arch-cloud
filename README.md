@@ -17,4 +17,5 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHp2dHJ3N3ZqYXg3dzJoNHkxNXhkd2pmcGQ0OG50NDFpdTNha3d0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kyF2NOXnXz3FE54aoJ/giphy.gif" width="600" height="300"/>
 </div>
 
-### 💅: About Me :
+### 💅: About Me : 
+I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyaHB2empwY293eTh6ODk1MG42M21hc3phd2tkcTlwbTdkMDhtYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ViHCDpLekvmzS8ZEQk/giphy.gif" width="30"> from Russia.
