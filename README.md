@@ -17,4 +17,4 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHp2dHJ3N3ZqYXg3dzJoNHkxNXhkd2pmcGQ0OG50NDFpdTNha3d0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kyF2NOXnXz3FE54aoJ/giphy.gif" width="600" height="300"/>
 </div>
 
-### :💅: About Me :
+### 💅: About Me :
