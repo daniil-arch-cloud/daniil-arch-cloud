@@ -12,11 +12,11 @@
   hey there b*tch
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmh5ODNwNnRtdGc3bHFhdm9pMWpmaGlxcGZ2aDlzem14Ynp2amVtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hQKiGV6MG8WmsHg2yx/giphy.gif" width="40px"/>
 </h1>
-
+---
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHp2dHJ3N3ZqYXg3dzJoNHkxNXhkd2pmcGQ0OG50NDFpdTNha3d0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kyF2NOXnXz3FE54aoJ/giphy.gif" width="600" height="300"/>
 </div>
-
+---
 ### 💅: About Me : 
 I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGh3b2p0azFvNzdoeXZzMzJkdm1tdXozczZ4amRmN3M5cDRpczE1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bZXxOwMfvumsvKjEiX/giphy.gif" width="35"> from Russia.
 - :telescope: No work <==> No problems.
@@ -26,7 +26,7 @@ I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGh
 - 🧠: Overthinker.
 
 - :mailbox:How to reach me: why tf do you need to reach me?
-
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@ I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGh
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniil-arch-cloud&theme=dark&background=000000)](https://git.io/streak-stats)
 
