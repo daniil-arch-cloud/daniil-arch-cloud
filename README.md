@@ -3,7 +3,8 @@
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/onlyfans-white?style=for-the-badge&logo=onlyfans&logoColor=blue" alt="onlyfans Badge"/>
-  <img src="https://komarev.com/ghpvc/?username=daniil-arch-cloud&style=flat-square&color=blue" alt=""/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=daniil-arch-cloud&style=flat-square&color=blue" alt=""/>
 
     
-</div>
+
