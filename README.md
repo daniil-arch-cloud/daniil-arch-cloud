@@ -19,7 +19,7 @@
 
 ### 💅: About Me : 
 I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGh3b2p0azFvNzdoeXZzMzJkdm1tdXozczZ4amRmN3M5cDRpczE1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bZXxOwMfvumsvKjEiX/giphy.gif" width="35"> from Russia.
-- :telescope: No work == No problems.
+- :telescope: No work <==> No problems.
 
 - :seedling: Тяжелый Люкс.
 
