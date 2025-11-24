@@ -7,6 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=daniil-arch-cloud&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmh5ODNwNnRtdGc3bHFhdm9pMWpmaGlxcGZ2aDlzem14Ynp2amVtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hQKiGV6MG8WmsHg2yx/giphy.gif" width="30px"/>
 </h1>
 
