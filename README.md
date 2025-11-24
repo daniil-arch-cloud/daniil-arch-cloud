@@ -9,7 +9,7 @@
 </div>
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmh5ODNwNnRtdGc3bHFhdm9pMWpmaGlxcGZ2aDlzem14Ynp2amVtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hQKiGV6MG8WmsHg2yx/giphy.gif" width="40px"/>
-  hey there bitch
+  hey there b*tch
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmh5ODNwNnRtdGc3bHFhdm9pMWpmaGlxcGZ2aDlzem14Ynp2amVtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hQKiGV6MG8WmsHg2yx/giphy.gif" width="40px"/>
 </h1>
 
@@ -19,3 +19,10 @@
 
 ### 💅: About Me : 
 I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGh3b2p0azFvNzdoeXZzMzJkdm1tdXozczZ4amRmN3M5cDRpczE1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bZXxOwMfvumsvKjEiX/giphy.gif" width="35"> from Russia.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: why tf do you need to reach me?
