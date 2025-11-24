@@ -12,4 +12,6 @@
   hey there bitch
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mmh5ODNwNnRtdGc3bHFhdm9pMWpmaGlxcGZ2aDlzem14Ynp2amVtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/hQKiGV6MG8WmsHg2yx/giphy.gif" width="40px"/>
 </h1>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHp2dHJ3N3ZqYXg3dzJoNHkxNXhkd2pmcGQ0OG50NDFpdTNha3d0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kyF2NOXnXz3FE54aoJ/giphy.gif" width="600" height="300"/>
+</div>
