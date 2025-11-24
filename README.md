@@ -18,4 +18,4 @@
 </div>
 
 ### 💅: About Me : 
-I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoyaHB2empwY293eTh6ODk1MG42M21hc3phd2tkcTlwbTdkMDhtYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ViHCDpLekvmzS8ZEQk/giphy.gif" width="35"> from Russia.
+I am a Unemployed <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGh3b2p0azFvNzdoeXZzMzJkdm1tdXozczZ4amRmN3M5cDRpczE1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bZXxOwMfvumsvKjEiX/giphy.gif" width="35"> from Russia.
